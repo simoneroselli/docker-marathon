@@ -1,0 +1,1 @@
+zk://mesos01.domain.com:2181,mesos02.domain.com:2181,mesos03.domain.com:2181/marathon
